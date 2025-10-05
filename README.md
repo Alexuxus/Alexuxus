@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on smth
 - 📫 How to reach me: u can't <3
-- 😄 Pronouns: male
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I skateboard & snowboard
 
 <!---
